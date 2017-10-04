@@ -11,3 +11,4 @@ The purpose of this exercise is to practice the steps you'll need to use in futu
 7. Push changes up to GitHub
 8.apple 
 9.banana
+10.orange
